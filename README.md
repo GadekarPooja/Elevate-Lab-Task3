@@ -151,4 +151,5 @@ Too many indexes slow down INSERT/UPDATE operations.
 
 16.Show Indexes
 SHOW INDEXES FROM ecommercepk1;
+
 Displays all indexes on the table.
